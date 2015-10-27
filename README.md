@@ -1,1 +1,2 @@
 # ECAM-STM
+This repository includes some of the codes that I wrote during the ECAM STM submission. The code analyzed the number of OTUs and shared OTUs between mothers and child for the first 6 month of life after the child birth. The study compare the differences in the shared OTUs between normal birth and cesarean.
